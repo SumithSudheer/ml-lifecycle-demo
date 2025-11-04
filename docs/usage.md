@@ -11,7 +11,6 @@ This document explains how to execute the project's entire Machine Learning life
 
 The first step is to load the raw dataset and prepare it for training.
 
-```bash
 python src/preprocess.py
 
 
