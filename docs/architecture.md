@@ -101,7 +101,7 @@ The final product is packaged as a single, immutable Docker image.
 
 -----
 
-## 🧩 Future Enhancements (MLOps Roadmap)
+## 🧩 Future Enhancements 
 
 This demo establishes a strong foundation. Future work could focus on full MLOps automation and enterprise features:
 
