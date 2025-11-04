@@ -1,6 +1,6 @@
 
 
-````markdown
+```markdown
 # 🏠 House Price Prediction — ML Lifecycle Demo
 
 A production-style **end-to-end Machine Learning system** demonstrating the full lifecycle: **data → training → evaluation → deployment → monitoring**. This project is focused on providing a **practical, production-ready blueprint** for deploying an ML model.
@@ -40,7 +40,7 @@ Follow these steps to set up and run the entire ML pipeline locally.
 ```bash
 git clone [https://github.com/yourusername/ml-lifecycle-demo.git](https://github.com/yourusername/ml-lifecycle-demo.git)
 cd ml-lifecycle-demo
-````
+```
 
 ### 2️⃣ Setup Environment
 
