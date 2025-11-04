@@ -5,7 +5,6 @@
 
 This guide explains how to prepare your environment and install dependencies for the House Price Prediction ML Lifecycle Demo project.
 
-````markdown
 ---
 ## 🧩 1. Prerequisites
 
@@ -21,6 +20,8 @@ Ensure you have the following tools installed on your system before proceeding:
 
 ````
 ## 🏗️ 2. Clone the Repository
+
+````markdown
 
 Open your terminal or command prompt and execute:
 
