@@ -4,7 +4,7 @@
 
 This document explains how to execute the project's entire Machine Learning lifecycle, starting from data preparation all the way through to deploying the prediction API.
 
-````markdown
+
 ---
 
 ## 📊 Step 1: Data Preparation
@@ -13,7 +13,7 @@ The first step is to load the raw dataset and prepare it for training.
 
 ```bash
 python src/preprocess.py
-````
+
 
   * **Action:** Loads the California Housing dataset from `sklearn.datasets`.
   * **Result:** Splits the data into training and testing sets (e.g., 80/20 split).
