@@ -37,9 +37,8 @@ The project follows the standard sequential ML lifecycle, with clear tools assig
 ---
 
 ## 🧱 System Data Flow
-````markdown
 The architecture is pipeline-centric, where the output of one script becomes the input of the next, culminating in the deployment artifact.
-
+```text
 
                                ┌─────────────────────┐
                                │ Raw Data (CSV)      │
