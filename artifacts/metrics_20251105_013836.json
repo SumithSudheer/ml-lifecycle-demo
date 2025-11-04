@@ -1,0 +1,10 @@
+{
+    "model_evaluated": "model_20251105_013830.joblib",
+    "timestamp": "20251105_013836",
+    "metrics": {
+        "timestamp": "20251105_013836",
+        "rmse": 57228.9662,
+        "r2": 0.851,
+        "test_rows": 98
+    }
+}

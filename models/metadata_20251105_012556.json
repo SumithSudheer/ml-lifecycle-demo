@@ -1,0 +1,6 @@
+{
+    "model_type": "random_forest",
+    "mse": 3275154570.375,
+    "r2": 0.8509776030503573,
+    "training_time_sec": 0.54
+}
