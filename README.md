@@ -40,7 +40,7 @@ Follow these steps to set up and run the entire ML pipeline locally.
 ```bash
 git clone [https://github.com/yourusername/ml-lifecycle-demo.git](https://github.com/yourusername/ml-lifecycle-demo.git)
 cd ml-lifecycle-demo
-```
+````
 
 ### 2️⃣ Setup Environment
 
