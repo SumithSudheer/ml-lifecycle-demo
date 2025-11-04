@@ -101,16 +101,7 @@ The final product is packaged as a single, immutable Docker image.
 
 -----
 
-## 🧩 Future Enhancements 
 
-This demo establishes a strong foundation. Future work could focus on full MLOps automation and enterprise features:
-
-  * **Experiment Tracking:** Integrate **MLflow** or **DVC** to manage and compare training runs and model versions.
-  * **Data Quality/Drift:** Add **EvidentlyAI** or another tool to monitor incoming data and model prediction quality.
-  * **Logging:** Implement a structured logger to push predictions, inputs, and latency metrics to a database (e.g., MongoDB, Prometheus).
-  * **Automation:** Automate the retraining pipeline using tools like **Celery**, **Apache Airflow**, or cloud-native solutions (e.g., GitHub Actions, AWS Step Functions).
-
------
 
 **Result:** A clean, modular, production-grade ML lifecycle template that can be reused and scaled for any predictive system.
 
