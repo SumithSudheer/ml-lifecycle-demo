@@ -8,7 +8,6 @@ This document explains the system design and core Machine Learning lifecycle arc
 
 ## 🎯 Design Goal
 
-````markdown
 
 The primary objective is to demonstrate a **reproducible, production-grade ML workflow** that establishes a clear, decoupled flow between training and serving. The design integrates:
 
@@ -18,6 +17,7 @@ The primary objective is to demonstrate a **reproducible, production-grade ML wo
 * **Microservice Deployment:** Deployment as a high-performance **REST API**.
 * **Containerization:** Full portability using **Docker**.
 
+````markdown
 ---
 
 ## 🔄 ML Lifecycle Stages
