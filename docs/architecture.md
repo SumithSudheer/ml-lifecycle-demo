@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🏗️ Architecture Overview: ML Lifecycle
 
 This document explains the system design and core Machine Learning lifecycle architecture for the **House Price Prediction** project, emphasizing modularity and production readiness.
@@ -9,6 +9,8 @@ This document explains the system design and core Machine Learning lifecycle arc
 ## 🎯 Design Goal
 
 The primary objective is to demonstrate a **reproducible, production-grade ML workflow** that establishes a clear, decoupled flow between training and serving. The design integrates:
+
+````markdown
 
 * **Modular Scripts:** Decoupled Python scripts for data, training, and evaluation.
 * **Artifact Management:** Clear separation and versioning of model artifacts.
