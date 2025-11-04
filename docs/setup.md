@@ -21,7 +21,7 @@ Ensure you have the following tools installed on your system before proceeding:
 
 ## 🏗️ 2. Clone the Repository
 
-````markdown
+
 
 Open your terminal or command prompt and execute:
 
@@ -29,7 +29,7 @@ Open your terminal or command prompt and execute:
 git clone [https://github.com/yourusername/ml-lifecycle-demo.git](https://github.com/yourusername/ml-lifecycle-demo.git)
 cd ml-lifecycle-demo
 ```
-````
+
 -----
 
 ## 💻 3. Create and Activate a Virtual Environment
