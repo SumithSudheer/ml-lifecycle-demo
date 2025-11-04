@@ -17,6 +17,7 @@ Ensure you have the following tools installed on your system before proceeding:
 * **IDE:** Recommended integrated development environment (e.g., VSCode, PyCharm).
 
 ---
+````
 
 ## 🏗️ 2. Clone the Repository
 
@@ -25,7 +26,7 @@ Open your terminal or command prompt and execute:
 ```bash
 git clone [https://github.com/yourusername/ml-lifecycle-demo.git](https://github.com/yourusername/ml-lifecycle-demo.git)
 cd ml-lifecycle-demo
-````
+```
 
 -----
 
