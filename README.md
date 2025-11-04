@@ -30,11 +30,11 @@ This project aims to bridge the gap between ML experimentation and production de
 | **Dataset** | California Housing | A classic dataset from `sklearn.datasets` for regression. |
 
 ---
-
+````
 ## ⚙️ Quickstart
 
 Follow these steps to set up and run the entire ML pipeline locally.
-````
+
 ### 1️⃣ Clone the Repository
 
 ```bash
