@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # ⚙️ Setup Guide: ML Lifecycle Demo
 
 This guide explains how to prepare your environment and install dependencies for the House Price Prediction ML Lifecycle Demo project.
@@ -17,8 +17,9 @@ Ensure you have the following tools installed on your system before proceeding:
 * **IDE:** Recommended integrated development environment (e.g., VSCode, PyCharm).
 
 ---
-````
 
+````markdown
+````
 ## 🏗️ 2. Clone the Repository
 
 Open your terminal or command prompt and execute:
