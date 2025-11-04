@@ -1,6 +1,6 @@
 
 
-```markdown
+````markdown
 # 🏠 House Price Prediction — ML Lifecycle Demo
 
 A production-style **end-to-end Machine Learning system** demonstrating the full lifecycle: **data → training → evaluation → deployment → monitoring**. This project is focused on providing a **practical, production-ready blueprint** for deploying an ML model.
@@ -133,8 +133,7 @@ ml-lifecycle-demo/
 ├── src/                      # Core ML logic scripts
 │   ├── preprocess.py         # Handles data loading, cleaning, and splitting
 │   ├── train.py              # Loads processed data, trains, and saves model
-│   ├── evaluate.py           # Loads model and calculates metrics
-│   └── predict.py            # Utility function for model inference
+│   └── evaluate.py           # Loads model and calculates metrics
 │
 ├── models/                   # Storage for trained models and associated files
 │   ├── house_price_model.joblib # The serialized ML model
